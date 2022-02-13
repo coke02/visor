@@ -1,1 +1,1 @@
-# visor, solo vista y estilos (graficos, line y radar)
+# visor, solo vista y estilos (gráficos, line y radar)
