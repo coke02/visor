@@ -1,1 +1,1 @@
-# visor sin carousel slider solo graficos (line, radar)
+# visor, solo vista solo graficos (line, radar)
